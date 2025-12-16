@@ -1,6 +1,6 @@
 ## Hi there, I'm Yashi Tiwari
 
-Welcome to my GitHub profile! 😊
+Welcome to my GitHub profile! 
 I'm a **React Native Developer** who loves building mobile applications and exploring new technologies.
 
 ---

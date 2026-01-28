@@ -27,13 +27,13 @@ I'm a **React Native Developer** who loves building mobile applications and expl
 
 ### 📌 Projects
 
-* 🛒 **E-commerce App (React Native)**
+*  **E-commerce App (React Native)**
   Features: Authentication, Add to Cart, Orders, Push Notifications, Reviews, Live Tracking
 
-* 📄 **AI Resume Builder**
+*  **AI Resume Builder**
   Built with React & Strapi, generates AI-based resume summaries
 
-* 🌿 **Ayurvedic E-commerce App**
+*  **Ayurvedic E-commerce App**
   React Native app with API integration, theming, and order management
 
 ---

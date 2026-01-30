@@ -7,11 +7,11 @@ I'm a **React Native Developer** who loves building mobile applications and expl
 
 ### 🚀 About Me
 
-* 💻 React Native Developer with hands-on experience in real-world projects
-* 📱 Worked on e-commerce and web applications
-* 🌱 Currently focusing on improving my React Native skills and exploring new tools
-* 🎯 I believe in continuous learning and strong mentorship
-* 🧠 Interested in frontend development, app development, and problem-solving
+*  React Native Developer with hands-on experience in real-world projects
+*  Worked on e-commerce and web applications
+*  Currently focusing on improving my React Native skills and exploring new tools
+*  I believe in continuous learning and strong mentorship
+*  Interested in frontend development, app development, and problem-solving
 
 ---
 

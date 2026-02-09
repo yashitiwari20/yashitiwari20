@@ -23,18 +23,6 @@ I'm a **React Native Developer** who loves building mobile applications and expl
 * Backend: Node.js, MongoDB
 * Tools: Firebase (FCM), Git, Android Studio
 
----
-
-### 📌 Projects
-
-*  **E-commerce App (React Native)**
-  Features: Authentication, Add to Cart, Orders, Push Notifications, Reviews, Live Tracking
-
-*  **AI Resume Builder**
-  Built with React & Strapi, generates AI-based resume summaries
-
-*  **Ayurvedic E-commerce App**
-  React Native app with API integration, theming, and order management
 
 ---
 
@@ -47,4 +35,4 @@ I'm a **React Native Developer** who loves building mobile applications and expl
 
 ---
 
-✨ *Always curious to learn, build, and grow as a developer.*
+ *Always curious to learn, build, and grow as a developer.*

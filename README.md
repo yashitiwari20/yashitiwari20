@@ -5,7 +5,7 @@ I'm a **React Native Developer** who loves building mobile applications and expl
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 *  React Native Developer with hands-on experience in real-world projects
 *  Worked on e-commerce and web applications
@@ -15,7 +15,7 @@ I'm a **React Native Developer** who loves building mobile applications and expl
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 * Languages: JavaScript, Java, Kotlin
 * Frameworks/Libraries:React Native, React, Next.js
@@ -27,7 +27,7 @@ I'm a **React Native Developer** who loves building mobile applications and expl
 ---
 
 
-### 📫 How to Reach Me
+###  How to Reach Me
 
 * 📧 Email: [yt.kosi21@gmail.com](mailto:yt.kosi21@gmail.com)
 * 💼 LinkedIn: *[(https://www.linkedin.com/in/yshtwr)](https://www.linkedin.com/in/yshtiwr/)*

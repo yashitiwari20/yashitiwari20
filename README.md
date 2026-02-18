@@ -29,7 +29,7 @@ I'm a **React Native Developer** who loves building mobile applications and expl
 
 ###  How to Reach Me
 
-* 📧 Email: [yt.kosi21@gmail.com](mailto:yt.kosi21@gmail.com)
+*  Email: [yt.kosi21@gmail.com](mailto:yt.kosi21@gmail.com)
 * 💼 LinkedIn: *[(https://www.linkedin.com/in/yshtwr)](https://www.linkedin.com/in/yshtiwr/)*
 * 🌐 GitHub: [https://github.com/yashitiwari20](https://github.com/yashitiwari20)
 

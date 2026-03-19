@@ -35,4 +35,4 @@ I'm a **React Native Developer** who loves building mobile applications and expl
 
 ---
 
- *Always curious to learn, build, and grow as a developer.*
+ *Always curious to learn, build, and grow as a 

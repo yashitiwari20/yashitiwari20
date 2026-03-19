@@ -34,5 +34,3 @@ I'm a **React Native Developer** who loves building mobile applications and expl
 *  GitHub: [https://github.com/yashitiwari20](https://github.com/yashitiwari20)
 
 ---
-
- *Always curious to learn, build, and grow as a 
